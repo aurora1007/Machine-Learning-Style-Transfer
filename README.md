@@ -13,7 +13,7 @@ Use a pre-trained VGG19 Net to extract content or style features from a passed-i
 
 
 
-| Duke Photo _Duke Chapel_ | Maurice de Vlaminck _The Seine at Chatou_| Generated Image      | 
+| Duke Photo _Duke Chapel_ | Maurice de Vlaminck _The Seine at Chatou_| Generated Image    | 
 |------------|-------------|-------------|
-| <img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/duke3.jpg" width="281"> |<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/The_River_Seine.jpg" width="215" >|<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/Machine Learning Style Transfer.png" width="281" > |
+| <img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/duke3.jpg" width="281"> |  <div style="text-align: center"><img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/The_River_Seine.jpg" width="215" ></div>|<img src="https://raw.githubusercontent.com/muxiazhixing/Machine-Learning-Style-Transfer/master/images/Machine Learning Style Transfer.png" width="281" > |
 

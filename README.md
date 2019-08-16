@@ -1,5 +1,5 @@
 # Machine-Learning-Style-Transfer
-Recreate a style transfer method that is outlined in the paper, Image Style Transfer Using Convolutional Neural Networks, by Gatys in PyTorch. Uses the features found in the 19-layer VGG Network, which is comprised of a series of convolutional and pooling layers, and a few fully-connected layers. Generated target image which contains the scenery at Duke but is stylized with the style of several famous paintings.
+I recreate a style transfer method that is outlined in the paper, Image Style Transfer Using Convolutional Neural Networks, by Gatys in PyTorch. Use the features found in the 19-layer VGG Network, which is comprised of a series of convolutional and pooling layers, and a few fully-connected layers. I generate target image which contains the scenery at Duke but is stylized with the style of several famous paintings.
 
 
 
